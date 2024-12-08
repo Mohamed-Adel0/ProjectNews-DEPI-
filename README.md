@@ -4,5 +4,5 @@ A picture from the project.
 
 ![screencapture-mohamed-adel0-github-io-ProjectNews-DEPI-index-html-2024-12-08-23_20_27](https://github.com/user-attachments/assets/08a0f0ee-706f-468b-960e-7286ed700d7a)
 
-![Uploading test.png…]()
+![test](https://github.com/user-attachments/assets/c19be363-cab1-477e-b278-24ff78a9ec89)
 
