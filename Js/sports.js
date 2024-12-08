@@ -2,55 +2,55 @@
 let sports = [
   {
     id: 1,
-    image: "../Picture/sports6.jpg",
+    image: "./Picture/sports6.jpg",
   },
   {
     id: 1,
-    image: "../Picture/Swimming.jpg",
+    image: "./Picture/Swimming.jpg",
   },
   {
     id: 1,
-    image: "../Picture/sports1.jpg",
+    image: "./Picture/sports1.jpg",
   },
   {
     id: 1,
-    image: "../Picture/kickbox.jpg",
+    image: "./Picture/kickbox.jpg",
   },
   {
     id: 1,
-    image: "../Picture/sports2.jpg",
+    image: "./Picture/sports2.jpg",
   },
   {
     id: 1,
-    image: "../Picture/Swimming3.jpg",
+    image: "./Picture/Swimming3.jpg",
   },
   {
     id: 1,
-    image: "../Picture/bicycle1.jpg",
+    image: "./Picture/bicycle1.jpg",
   },
   {
     id: 1,
-    image: "../Picture/Swimming4.jpg",
+    image: "./Picture/Swimming4.jpg",
   },
   {
     id: 1,
-    image: "../Picture/Swimming1.jpg",
+    image: "./Picture/Swimming1.jpg",
   },
   {
     id: 1,
-    image: "../Picture/kickbox1.jpg",
+    image: "./Picture/kickbox1.jpg",
   },
   {
     id: 1,
-    image: "../Picture/running.jpg",
+    image: "./Picture/running.jpg",
   },
   {
     id: 1,
-    image: "../Picture/bicycle.jpg",
+    image: "./Picture/bicycle.jpg",
   },
   {
     id: 1,
-    image: "../Picture/kickbox4.jpg",
+    image: "./Picture/kickbox4.jpg",
   },
 ];
 const appendSports = () => {
