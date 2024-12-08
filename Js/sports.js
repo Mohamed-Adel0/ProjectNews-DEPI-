@@ -15,7 +15,7 @@ let sports = [
   {
     id: 1,
     image: "./Picture/kickbox.jpg",
-  },
+  }, 
   {
     id: 1,
     image: "./Picture/sports2.jpg",
