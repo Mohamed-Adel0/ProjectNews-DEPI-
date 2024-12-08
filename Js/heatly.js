@@ -1,47 +1,47 @@
 let sports = [
     {
         id: 1,
-        image: "../Picture/eat8.jpg",
+        image: "./Picture/eat8.jpg",
       },
       {
         id: 1,
-        image: "../Picture/eat9.jpg",
+        image: "./Picture/eat9.jpg",
       },
       {
         id: 1,
-        image: "../Picture/eat10.jpg",
+        image: "./Picture/eat10.jpg",
       },
       {
         id: 1,
-        image: "../Picture/eat11.jpg",
+        image: "./Picture/eat11.jpg",
       },
     {
       id: 1,
-      image: "../Picture/eat1.jpg",
+      image: "./Picture/eat1.jpg",
     },
     {
       id: 1,
-      image: "../Picture/eat2.jpg",
+      image: "./Picture/eat2.jpg",
     },
     {
       id: 1,
-      image: "../Picture/eat3.jpg",
+      image: "./Picture/eat3.jpg",
     },
     {
       id: 1,
-      image: "../Picture/eat5.jpg",
+      image: "./Picture/eat5.jpg",
     },
     {
         id: 1,
-        image: "../Picture/eat6.jpg",
+        image: "./Picture/eat6.jpg",
     },
     {
       id: 1,
-      image: "../Picture/eat4.jpg",
+      image: "./Picture/eat4.jpg",
     },
     {
         id: 1,
-      image: "../Picture/eat7.jpg",
+      image: "./Picture/eat7.jpg",
     },
    
   ];
